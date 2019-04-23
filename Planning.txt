@@ -1,3 +1,4 @@
 PLANNING GUE
 - Bangun Pagi - Olahraga
 - Rajin Membaca
+- Front End
